@@ -1,0 +1,12 @@
+name: software_dev_06
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - rasterio
+  - gdal
+  - jupyter
+  - sentinelhub
+  - python=3.10
+prefix: C:\ProgramData\Anaconda3\envs\software_dev_06
