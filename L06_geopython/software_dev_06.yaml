@@ -6,7 +6,5 @@ dependencies:
   - matplotlib
   - rasterio
   - gdal
-  - jupyter
-  - sentinelhub
+  - jupyterlab
   - python=3.10
-prefix: C:\ProgramData\Anaconda3\envs\software_dev_06
