@@ -9,10 +9,8 @@ They are descriptions of the exact same environment, however, one description is
 
 ## Task
 
-Go through the process of creating and modifying an environment
+Go through the process of re-creating environments:
 
 1) **Acquire** You can fork this repo or just download both files individually.
-2) **Recreate** both environments with conda (or try to od so)
-3) **Modify** one of the environments
-4) **Export** the modified environment file (either as OS specific, or OS independent, up to you...)
-5) **Commit** the modified env file to your personal GitHub repository you already created for this course
+2) **Recreate** both environments with conda (or try to do so). You can use the commandline or the navigator (see tutorial document as PDF here, but also available in Blackboard)
+3) **Document** Document the process of recreating the environments in the README.md file associated with your GitHub repsository for this course. Please share screenshots and descriptions of error messages but also of things that worked out.
